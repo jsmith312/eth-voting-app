@@ -1,0 +1,5 @@
+node_modules
+build
+geth/blockdata/..
+app/src/contracts
+.DS_Store
